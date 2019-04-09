@@ -3,7 +3,9 @@
 ## Description
 
  Get all players : [GET] http://localhost:3000/players
+ 
  Get player : [GET] http://localhost:3000/{id}
+ 
  Delete player : [DELETE] http://localhost:3000/{id}
 
 ## Installation
